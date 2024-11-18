@@ -10,3 +10,24 @@ article {
     box-sizing: border-box;
     padding: 5px;
 }
+
+header {
+    background-color: #f8f9fa;
+    padding: 1rem;
+  }
+  
+  main {
+    padding: 2rem;
+  }
+  
+  h1 {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  span {
+    background-color: #e9ecef;
+    padding: 0.5rem;
+    border-radius: 5px;
+  }
+  
